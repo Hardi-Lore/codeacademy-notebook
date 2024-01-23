@@ -34,8 +34,7 @@ Learn how to create, manage, and protect relational databases with SQL.
 4. Python Pandas for Data Engineers
 Learn the basics of Pandas, an industry standard Python library that provides tools for data manipulation and analysis.
 
-5
-Advanced SQL for Data Engineers
+5. Advanced SQL for Data Engineers
 Keep building your SQL skills with advanced techniques and hands-on practice.
 
 6. Data Wrangling, Cleaning, and Tidying
