@@ -77,8 +77,8 @@ Learn how to work with NoSQL databases and run basic CRUD operations in this int
 ## Folder Structure
 ```
 /
-|-- pictures/
 |-- Learing_material/
+|-- pictures/
 |-- LICENSE
 |-- README.md
 ```
