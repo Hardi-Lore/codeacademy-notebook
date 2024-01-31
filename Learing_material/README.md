@@ -23,15 +23,6 @@ Data Engineers make data usable. They build and monitor data pipelines, automate
 - make sure that a vital resource is delivered without leaks or contamination
 - In a perfect world, they also clean it up and develop tools for the end user to control the flow.
 
-Portfolio Projects, here’s a preview of the projects featured in this Path:
-
-1. Bike Rental Data Management
-  - Use Jupyter Notebooks and PostgreSQL to explore, clean, and merge Citi Bike ridership and NOAA weather data to produce a database with analytics-ready views!
-2. Analyze Common Crawl Data with PySpark
-  - Use PySpark, Pandas, and SQL to tackle a big data problem and manage the output of common crawl data.
-3. Subscriber Cancellations Data Pipeline
-  - Use Python to create a data ingestion pipeline to automatically clean and update customer information.
-
 ## In the day Day with the Data Scientists
 While Data Engineers are not themselves Data Scientists, the two teams work closely together to develop and deploy advanced analytics studies and models.
 
